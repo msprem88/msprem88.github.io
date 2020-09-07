@@ -6,13 +6,17 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-Marko Šprem was born in Zagreb in 1988. He received his Masters degree in 2014 from Faculty of Electrical Engineering and Computing in Zagreb. His research during the study was focused on fiber optic technology. From January 2015 till January 2019 he worked as a research assistant at the [Department of Wireless Communications(ZRK)](https://www.fer.unizg.hr/zkist) on a fiber-optic communications project titled EXCAR funded by the Croatian Science Foundation (HRZZ).
+## Past
 
-# Header 1
+Marko Šprem was born in Zagreb in 1988. He received his Masters degree in 2014 from Faculty of Electrical Engineering and Computing in Zagreb. His research during the study was focused on fiber optic technology. From January 2015 till January 2019 he worked as a research assistant at the [Department of Wireless Communications(ZRK)](https://www.fer.unizg.hr/zkist) on a fiber-optic communications project titled EXCAR funded by the Croatian Science Foundation (HRZZ).
 
 He is also an originator of the project [CROSPERITY](https://www.fer.unizg.hr/zkist/FERSAT/pocetak), alongside [Dario Bojanjac](https://www.fer.unizg.hr/zkist/djelatnici/dario_bojanjac) and [Josip Lončar](https://www.fer.unizg.hr/zkist/djelatnici/josip_loncar).
 
 In January 2019 he moved to [Department of Electronic Systems and Information Processing(ZESOI)](https://www.fer.unizg.hr/zesoi), where enrolled as PostDoc he researched photonic signal processing, optical RF filters and other new photonic technologies.
+
+## Now and future
+
+
 
 ## Header 2
 
