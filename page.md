@@ -10,7 +10,9 @@ Marko Šprem was born in Zagreb in 1988. He received his Masters degree in 2014f
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+He is also an originator of the project [CROSPERITY](https://www.fer.unizg.hr/zrk/FERSAT/pocetak), alongside [Dario Bojanjac](https://www.fer.unizg.hr/zrk/djelatnici/dario_bojanjac) and [Josip Lončar](https://www.fer.unizg.hr/zrk/djelatnici/josip_loncar).
+
+In January 2019 he moved to [Department of Electronic Systems and Information Processing(ZESOI)](https://www.fer.unizg.hr/zesoi), where enrolled as PostDoc he researched photonic signal processing, optical RF filters and other new photonic technologies.
 
 ## Header 2
 
