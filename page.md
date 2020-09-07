@@ -14,7 +14,7 @@ He graduated in October 2018 with PhD thesis titled "Optical communication based
 
 He is also an originator of the project [CROSPERITY](https://www.fer.unizg.hr/zkist/FERSAT/pocetak), alongside [Dario Bojanjac](https://www.fer.unizg.hr/zkist/djelatnici/dario_bojanjac) and [Josip Lončar](https://www.fer.unizg.hr/zkist/djelatnici/josip_loncar).
 
-In January 2019 he moved to [Department of Electronic Systems and Information Processing(ZESOI)](https://www.fer.unizg.hr/zesoi), where enrolled as PostDoc he researched photonic signal processing, optical RF filters and other new photonic technologies.
+In January 2019 he moved to Department of Electronic Systems and Information Processing(ZESOI), where enrolled as PostDoc he researched photonic signal processing, optical RF filters and other new photonic technologies.
 
 ## Now and future
 
