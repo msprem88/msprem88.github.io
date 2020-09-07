@@ -37,11 +37,17 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Areas of expertise:
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   fiber optic communications
+*   colorless WDM-PON
+*   weak cavity lasers and wavelength tuning
+*   fiber optic sensor systems
+
+#### Interests:
+
+*   photonic technologies in communications, medicine, spectrography etc.
+
 
 ##### Header 5
 
