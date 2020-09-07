@@ -6,9 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Marko Šprem was born in Zagreb in 1988. He received his Masters degree in 2014from Faculty of Electrical Engineering and Computing in Zagreb. His research during the study was focused on fiber optic technology. From January 2015 till January 2019& he workedas a research assistant at the [Department of Wireless Communications(ZRK)](https://www.fer.unizg.hr/zrk) on a fiber-optic communications project titled EXCAR funded by the Croatian Science Foundation (HRZZ).
 
 # Header 1
 
