@@ -1,4 +1,6 @@
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
+---
+layout: general_info
+---
 
 [Link to another page](./another-page.html). -->
 
