@@ -4,13 +4,13 @@ layout: biography
 
 
 
-## Present
+### Present
 
 Currently I am working in [prof. Iva Tolić Group](http://tolic.irb.hr) at Ruđer Bošković Institute in Zagreb, Croatia.
 Enrolled as PostDoc / Project Advisor on a ERC Synergy project titled “Molecular origins of aneuploidies in healthy and diseased human tissues” I entered the world of fluorescence microscopy and super-resolution.
  
 
-## Past
+### Past
 
 I was born in Zagreb in 1988. I received my Masters degree in 2014 from University in Zagreb from Faculty of Electrical Engineering and Computing ([FER](https://www.fer.unizg.hr)). My research during the study was focused on fiber optic technology. From January 2015 till January 2019 I worked as a research assistant in [Applied optics laboratory(AOLab)](https://aolab.fer.hr) of the Department of Wireless Communications(ZRK) on few science projects involving fiber optic communications and sensor systems.
 
