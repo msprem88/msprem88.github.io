@@ -6,7 +6,7 @@ layout: biography
 
 ## Present
 
-Currently I am working in [prof. Iva Tolić Group](https://tolic.irb.hr) at Ruđer Bošković Institute in Zagreb, Croatia.
+Currently I am working in [prof. Iva Tolić Group](tolic.irb.hr) at Ruđer Bošković Institute in Zagreb, Croatia.
 Enrolled as PostDoc / Project Advisor on a ERC Synergy project titled “Molecular origins of aneuploidies in healthy and diseased human tissues” I entered the world of fluorescence microscopy and super-resolution.
  
 
