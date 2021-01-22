@@ -1,5 +1,6 @@
 ---
 layout: general_info
+logo: /imgs/sl_2.jpg
 ---
 
 [Link to another page](./another-page.html). -->
