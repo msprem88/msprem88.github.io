@@ -12,19 +12,19 @@ Entering the world of fluorescence microscopy and super-resolution.
 
 ### Working Experience
 
-###### Sept 2020 - present | PostDoc / Project Advisor
+##### Sept 2020 - present | PostDoc / Project Advisor
 Ruđer Bošković Institute, Division of Molecular Biology, Laboratory of cell biophysics, Tolić Group
 _Reasearch_: microscopy and super-resolution methods
 
-###### Jan 2019 - Sept, 2020 | PostDoc
+##### Jan 2019 - Sept, 2020 | PostDoc
 UNIZG - FER, Department of Electronic Systems and Information Processing
 _Research_: photonic signal processing; opto-acoustics for biomedical purposes
 
-###### Jan 2015 - Dec 2018 | PhD student / Research Assistant
+##### Jan 2015 - Dec 2018 | PhD student / Research Assistant
 UNIZG - FER, Applied Optics Laboratory (AOLab), Department of Wireless Communications
 _Research_: fiber optic communication and sensor systems.
 
-###### Jul 2009 - Dec 2010 | Student job                         
+##### Jul 2009 - Dec 2010 | Student job                         
 MICROLINE doo, Zagreb, Croatia
 Computer assembly; installation of computer components; operating system installation.
 
