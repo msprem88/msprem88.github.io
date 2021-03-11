@@ -17,10 +17,10 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
-          {% if window.location.pathname=="/contact" %}
+          {% if window.location.pathname=="/contact.md" %}
           <img src="./imgs/patent.jpeg" alt="Logo" />
           {% else %}
-          <img src="./imgs/logo.jpg" alt="Logo" />
+          <img src="./imgs/logo.png" alt="Logo" />
           {% endif %}
         {% endif %}
 
