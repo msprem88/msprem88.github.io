@@ -4,14 +4,14 @@ layout: biography
 
 
 
-### Current Affiliation
+## Current Affiliation
 
 PostDoc / Project Advisor in [prof. Iva Tolić Group](http://tolic.irb.hr) at Ruđer Bošković Institute in Zagreb, Croatia, on a ERC Synergy project titled “Molecular origins of aneuploidies in healthy and diseased human tissues.”
 Entering the world of fluorescence microscopy and super-resolution.
  
 
 
-### Working Experience
+## Working Experience
 
 #### Sept 2020 - present | PostDoc / Project Advisor
 Ruđer Bošković Institute, Division of Molecular Biology, Laboratory of cell biophysics, Tolić Group
@@ -34,9 +34,9 @@ Computer assembly; installation of computer components; operating system install
 
 
 
-### Education and scientific titles:
+## Education and scientific titles
 	
-#### 2019	Scientific title: Research Associate
+#### 2019 | Scientific title: Research Associate
 Technical sciences/electrical engineering
 
 #### 2014 – 2018 | PhD in electrical engineering
