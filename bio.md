@@ -4,11 +4,15 @@ layout: biography
 
 
 
-### Present
+### Current Affiliation
 
-Currently I am working in [prof. Iva Tolić Group](http://tolic.irb.hr) at Ruđer Bošković Institute in Zagreb, Croatia.
-Enrolled as PostDoc / Project Advisor on a ERC Synergy project titled “Molecular origins of aneuploidies in healthy and diseased human tissues” I entered the world of fluorescence microscopy and super-resolution.
+PostDoc / Project Advisor in [prof. Iva Tolić Group](http://tolic.irb.hr) at Ruđer Bošković Institute in Zagreb, Croatia, on a ERC Synergy project titled “Molecular origins of aneuploidies in healthy and diseased human tissues.”
+Entering the world of fluorescence microscopy and super-resolution.
  
+
+### Working Experience
+
+Sept 2020 - present | PostDoc / Project Advisor
 
 ### Past
 
