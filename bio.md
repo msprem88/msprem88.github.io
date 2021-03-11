@@ -13,7 +13,7 @@ I am also an originator of the project [CROSPERITY](https://www.fer.unizg.hr/zki
 From January 2019 till September 2020 I was enrolled as PostDoc in the Department of Electronic Systems and Information Processing(ZESOI), where I was researching photonic signal processing, optical RF filters and other photonic technologies.
 
 
-#### Areas of expertise:
+### Areas of expertise:
 
 *   fluorescence microscopy
 *   super-resolution microscopy (STED)
@@ -22,6 +22,6 @@ From January 2019 till September 2020 I was enrolled as PostDoc in the Departmen
 *   weak cavity lasers and wavelength tuning
 *   fiber optic sensor systems
 
-#### Interests:
+### Interests:
 
 *   photonic technologies in communications, medicine, spectrography etc.
