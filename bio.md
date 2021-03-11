@@ -10,6 +10,7 @@ PostDoc / Project Advisor in [prof. Iva Tolić Group](http://tolic.irb.hr) at Ru
 Entering the world of fluorescence microscopy and super-resolution.
  
 
+
 ### Working Experience
 
 ##### Sept 2020 - present | PostDoc / Project Advisor
@@ -27,9 +28,36 @@ UNIZG - FER, Applied Optics Laboratory (AOLab), Department of Wireless Communica
 
 _Research_: fiber optic communication and sensor systems.
 
-##### Jul 2009 - Dec 2010 | Student job                         
+##### Jul 2009 - Dec 2010 | Student job
 MICROLINE doo, Zagreb, Croatia
 Computer assembly; installation of computer components; operating system installation.
+
+
+
+### Education and scientific titles:
+	
+##### 2019	Scientific title: research associate
+			Technical sciences/electrical engineering
+	
+2014 – 	2018	PhD in electrical engineering
+		UNIZG – FER
+		Applied Optics Laboratory (AOLab)
+		Zavod za radiokomunikacije	„Optical communication based on wavelength reuse and modulation averaging “
+(Summa Cum Laude)
+Mentor: izv. prof. dr. sc. Dubravko Babić
+2012 – 	2014	MSc
+UNIZG – FER
+Information and communication technology
+Radiocommunication technologies	„Temperature controlled laser source “
+Mentors: prof. dr. sc. Zvonimir Šipuš
+	   doc. dr. sc. Dubravko Babić
+2007 – 	2012	BSc
+UNIZG – FER
+Electrical engineering and information technology
+Radiocommunication technologies	„Optical sensor systems for measuring temperature and strain “
+Mentor: prof. dr. sc. Zvonimir Šipuš
+2003 – 	2007	XV. gymnasium (MIOC), Zagreb	
+
 
 
 ### Past
