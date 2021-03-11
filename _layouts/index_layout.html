@@ -18,12 +18,13 @@
         
         {% if site.logo %}
 
-          {% if window.location.pathname=="/contact" %}
+          if (window.location.pathname=="/contact") {
             <img src="./imgs/patent.jpeg" alt="Logo" />
-          {% else %}
+          }
+          else {
             <img src="./imgs/logo.jpg" alt="Logo" />
-          {% endif %}
-          
+          }
+
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
