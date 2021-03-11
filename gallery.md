@@ -8,3 +8,4 @@ layout: gallery
 ![](/imgs/sl_4.jpg)
 ![](/imgs/sl_3.jpg)
 ![](/imgs/sl_2.jpg)
+![](/imgs/sl_6.jpg)
