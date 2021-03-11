@@ -37,8 +37,8 @@ Computer assembly; installation of computer components; operating system install
 ### Education and scientific titles:
 	
 ##### 2019	Scientific title: research associate
-			Technical sciences/electrical engineering
-	
+		Technical sciences/electrical engineering
+
 2014 – 	2018	PhD in electrical engineering
 		UNIZG – FER
 		Applied Optics Laboratory (AOLab)
