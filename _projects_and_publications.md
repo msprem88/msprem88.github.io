@@ -10,7 +10,7 @@ layout: projects_publ
 
 
 * (**HRZZ**) Fractional analog and mixed signal processing systems (FRACTAL) - leader prof. Dražen Jurišić, UNIZG-FER
-  * 24.02.2017 - 23.02.2021 (joined 1.1.2019.)
+  * 24.02.2017 - 23.02.2021 (joined 1.1.2019)
   * fractional signal processing, photonic signal processing, optical versions of IIR / FIR filters
 
 * (**HRZZ**) Platform for satellite measurement of electromagnetic radiation (CROSPERITY) - leader prof. Dubravko Babić, UNIZG-FER
@@ -26,8 +26,8 @@ layout: projects_publ
 
  
 ### Personal project - opto-acoustics
-*   research of opto-acoustic effect for the purpose of obtaining medical images (organs, tissues, vasculature , etc.)
-*   mentored one student on the topic of image reconstruction methods in opto- acoustic tomography 2020.
+*   research of opto-acoustic effect for the purpose of obtaining medical images (organs, tissues, vasculature, etc.)
+*   mentored one student on the topic of image reconstruction methods in opto-acoustic tomography in 2020
 *   project in the initial phase
 
 
