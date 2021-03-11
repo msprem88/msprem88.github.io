@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index_layout
 ---
 
 Welcome to my personal page!
