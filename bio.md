@@ -20,6 +20,14 @@ _Reasearch_: microscopy and super-resolution methods
 UNIZG - FER, Department of Electronic Systems and Information Processing
 _Research_: photonic signal processing; opto-acoustics for biomedical purposes
 
+###### Jan 2015 - Dec 2018 | PhD student / Research Assistant
+UNIZG - FER, Applied Optics Laboratory (AOLab), Department of Wireless Communications
+_Research_: fiber optic communication and sensor systems.
+
+###### Jul 2009 - Dec 2010 | Student job                         
+MICROLINE doo, Zagreb, Croatia
+Computer assembly; installation of computer components; operating system installation.
+
 
 ### Past
 
