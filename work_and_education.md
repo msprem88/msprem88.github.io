@@ -1,3 +1,6 @@
+---
+layout: work_edu
+---
 
 ## Current Affiliation
 
