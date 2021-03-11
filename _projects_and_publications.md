@@ -4,7 +4,7 @@ layout: projects_publ
 
 ## Scientific projects
 
-* (**ERC Synergy**) Molecular origins of aneuploidies in healthy and diseased human tissues - cPI prof. dr. sc. Iva Tolić, Ruđer Bošković Institute; other PI: prof. Geert Kops , Hubrecht Institute - KNAW, Utrecht , Netherlands; prof. Angelika Amon, MIT, Cambridge, MA, USA; prof. dr. sc. Nenad Pavin , UNIZG-PMF
+* (**ERC Synergy**) Molecular origins of aneuploidies in healthy and diseased human tissues - cPI prof. Iva Tolić, Ruđer Bošković Institute; other PI: prof. Geert Kops , Hubrecht Institute - KNAW, Utrecht , Netherlands; prof. Angelika Amon, MIT, Cambridge, MA, USA; prof. Nenad Pavin, UNIZG-PMF
   * 01.04.2020 - 31.03.2025
   * work with...
 
