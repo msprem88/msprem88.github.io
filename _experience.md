@@ -33,7 +33,7 @@ layout: biography
 * operation of a vibration measurement system with a fiber optic as a sensor
 
 
-### Skills :
+### Skills
 * programming: Python, Matlab, C
 * microcontrollers (mbed)
 * measurement automation
