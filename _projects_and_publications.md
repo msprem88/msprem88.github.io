@@ -6,9 +6,12 @@ layout: projects_publ
 
 ### ERC Synergy
 *   Molecular origins of aneuploidies in healthy and diseased human tissues - cPI prof. dr. sc. Iva Tolić, Ruđer Bošković Institute; other PI: prof. Geert Kops , Hubrecht Institute - KNAW, Utrecht , Netherlands; prof. Angelika Amon, MIT, Cambridge, MA, USA; prof. dr. sc. Nenad Pavin , UNIZG-PMF
-  *   01.04 .2020 . - 31.03 .2025.
+  *   01.04.2020 - 31.03.2025
   *   work within the doctoral thesis; research of WDM optical communication systems, method of tuning FP-LD modes in injection-locking mode to unknown incident wavelength, design of transceivers and architecture of two-way communication, research of noise and polarization of light, and influence on communication performance
   *   participation in the research of a sensor system for measuring vibrations using fiber optics
+
+* test
+  * test
 
 ### Projects of the Croatian Science Foundation (HRZZ)
 *   Sustainable optical communication and sensor systems based on resonator with extended resonant cavity (EXCAR) - leader prof. dr. sc. Zvonimir Šipuš , UNIZG-FER
@@ -16,7 +19,7 @@ o	01.09.2014 - 31.08.2018
 o	work within the doctoral thesis; research of WDM optical communication systems, method of tuning FP-LD modes in injection-locking mode to unknown incident wavelength, design of transceivers and architecture of two-way communication, research of noise and polarization of light, and influence on communication performance
 o	participation in the research of a sensor system for measuring vibrations using fiber optics
 *   Platform for satellite measurement of electromagnetic radiation (CROSPERITY) - leader Assoc. dr. sc. Dubravko Babić , UNIZG-FER
-o	22.10.2018 - 21.10.2022. (left project 2020)
+o	22.10.2018 - 21.10.2022 (exited project in 2020)
 o	launched the project together with Dario Bojanac and Josip Lončar
 o	technical and logistical support, participation in FERSAT workshop organizations
 *   Fractional analog and mixed signal processing systems (FRACTAL) - leader prof. dr. sc. Dražen Jurišić, UNIZG-FER
