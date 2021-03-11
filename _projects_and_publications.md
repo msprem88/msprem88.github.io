@@ -7,24 +7,25 @@ layout: projects_publ
 ### ERC Synergy
 * Molecular origins of aneuploidies in healthy and diseased human tissues - cPI prof. dr. sc. Iva Tolić, Ruđer Bošković Institute; other PI: prof. Geert Kops , Hubrecht Institute - KNAW, Utrecht , Netherlands; prof. Angelika Amon, MIT, Cambridge, MA, USA; prof. dr. sc. Nenad Pavin , UNIZG-PMF
   * 01.04.2020 - 31.03.2025
+  * work with...
+
+
+### Projects of the Croatian Science Foundation (HRZZ)
+
+* Fractional analog and mixed signal processing systems (FRACTAL) - leader prof. Dražen Jurišić, UNIZG-FER
+  * 24.02.2017 - 23.02.2021 (joined 1.1.2019.)
+  * fractional signal processing, photonic signal processing, optical versions of IIR / FIR filters
+
+* Platform for satellite measurement of electromagnetic radiation (CROSPERITY) - leader prof. Dubravko Babić, UNIZG-FER
+  * 22.10.2018 - 21.10.2022 (exited project in 2020)
+  * launched the project together with Dario Bojanac and Josip Lončar
+  * technical and logistical support, participation in FERSAT workshop organizations
+
+* Sustainable optical communication and sensor systems based on resonator with extended resonant cavity (EXCAR) - leader prof. Zvonimir Šipuš, UNIZG-FER
+  * 01.09.2014 - 31.08.2018
   * work within the doctoral thesis; research of WDM optical communication systems, method of tuning FP-LD modes in injection-locking mode to unknown incident wavelength, design of transceivers and architecture of two-way communication, research of noise and polarization of light, and influence on communication performance
   * participation in the research of a sensor system for measuring vibrations using fiber optics
 
-* test
-  * test
-
-### Projects of the Croatian Science Foundation (HRZZ)
-*   Sustainable optical communication and sensor systems based on resonator with extended resonant cavity (EXCAR) - leader prof. dr. sc. Zvonimir Šipuš , UNIZG-FER
-o	01.09.2014 - 31.08.2018
-o	work within the doctoral thesis; research of WDM optical communication systems, method of tuning FP-LD modes in injection-locking mode to unknown incident wavelength, design of transceivers and architecture of two-way communication, research of noise and polarization of light, and influence on communication performance
-o	participation in the research of a sensor system for measuring vibrations using fiber optics
-*   Platform for satellite measurement of electromagnetic radiation (CROSPERITY) - leader Assoc. dr. sc. Dubravko Babić , UNIZG-FER
-o	22.10.2018 - 21.10.2022 (exited project in 2020)
-o	launched the project together with Dario Bojanac and Josip Lončar
-o	technical and logistical support, participation in FERSAT workshop organizations
-*   Fractional analog and mixed signal processing systems (FRACTAL) - leader prof. dr. sc. Dražen Jurišić, UNIZG-FER
-o	24.02.2017 - 23.02.2021 (joined 1.1.2019.)
-o	fractional signal processing, photonic signal processing, optical versions of IIR / FIR filters
 
  
 ### Personal project - opto-acoustics
@@ -35,6 +36,8 @@ o	fractional signal processing, photonic signal processing, optical versions of 
 
 ## Visits
 *   Electro-Optics Laboratory under the leadership of prof. Zeev Zalevsky , from the Faculty of Engineering , Bar Ilan University, Tel Aviv, Israel, for a period of two weeks in March 2019. The topic of training was digital FIR / IIR filters in fiber optic technology
+
+
 
 ## Publications
 
