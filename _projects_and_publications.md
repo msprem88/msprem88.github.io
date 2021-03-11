@@ -5,10 +5,10 @@ layout: projects_publ
 ## Scientific projects
 
 ### ERC Synergy
-*   Molecular origins of aneuploidies in healthy and diseased human tissues - cPI prof. dr. sc. Iva Tolić, Ruđer Bošković Institute; other PI: prof. Geert Kops , Hubrecht Institute - KNAW, Utrecht , Netherlands; prof. Angelika Amon, MIT, Cambridge, MA, USA; prof. dr. sc. Nenad Pavin , UNIZG-PMF
-  *   01.04.2020 - 31.03.2025
-  *   work within the doctoral thesis; research of WDM optical communication systems, method of tuning FP-LD modes in injection-locking mode to unknown incident wavelength, design of transceivers and architecture of two-way communication, research of noise and polarization of light, and influence on communication performance
-  *   participation in the research of a sensor system for measuring vibrations using fiber optics
+* Molecular origins of aneuploidies in healthy and diseased human tissues - cPI prof. dr. sc. Iva Tolić, Ruđer Bošković Institute; other PI: prof. Geert Kops , Hubrecht Institute - KNAW, Utrecht , Netherlands; prof. Angelika Amon, MIT, Cambridge, MA, USA; prof. dr. sc. Nenad Pavin , UNIZG-PMF
+  * 01.04.2020 - 31.03.2025
+  * work within the doctoral thesis; research of WDM optical communication systems, method of tuning FP-LD modes in injection-locking mode to unknown incident wavelength, design of transceivers and architecture of two-way communication, research of noise and polarization of light, and influence on communication performance
+  * participation in the research of a sensor system for measuring vibrations using fiber optics
 
 * test
   * test
