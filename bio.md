@@ -6,9 +6,9 @@ layout: biography
 
 ## Current Affiliation
 
-PostDoc / Project Advisor in [prof. Iva Tolić Group](http://tolic.irb.hr) at Ruđer Bošković Institute in Zagreb, Croatia, on a ERC Synergy project titled “Molecular origins of aneuploidies in healthy and diseased human tissues.”
+PostDoc / Project Advisor in [prof. Iva Tolić Group](http://tolic.irb.hr) at Ruđer Bošković Institute in Zagreb, Croatia, on an ERC Synergy project titled “Molecular origins of aneuploidies in healthy and diseased human tissues.”
 Entering the world of fluorescence microscopy and super-resolution.
- 
+
 
 
 ## Working Experience
@@ -26,11 +26,11 @@ _Research_: photonic signal processing; opto-acoustics for biomedical purposes
 #### Jan 2015 - Dec 2018 | PhD student / Research Assistant
 UNIZG - FER, Applied Optics Laboratory (AOLab), Department of Wireless Communications
 
-_Research_: fiber optic communication and sensor systems.
+_Research_: fiber optic communication and sensor systems
 
 #### Jul 2009 - Dec 2010 | Student job
 MICROLINE doo, Zagreb, Croatia
-Computer assembly; installation of computer components; operating system installation.
+Computer assembly; installation of computer components; operating system installation
 
 
 
@@ -64,7 +64,7 @@ Mentor: prof. dr. sc. Zvonimir Šipuš
 
 
 
-### Past
+## Short Bio
 
 I was born in Zagreb in 1988. I received my Masters degree in 2014 from University in Zagreb from Faculty of Electrical Engineering and Computing ([FER](https://www.fer.unizg.hr)). My research during the study was focused on fiber optic technology. From January 2015 till January 2019 I worked as a research assistant in [Applied optics laboratory(AOLab)](https://aolab.fer.hr) of the Department of Wireless Communications(ZRK) on few science projects involving fiber optic communications and sensor systems.
 
@@ -77,6 +77,8 @@ From January 2019 till September 2020 I was enrolled as PostDoc in the Departmen
 
 #### Areas of expertise:
 
+*   fluorescence microscopy
+*   super-resolution microscopy (STED)
 *   fiber optic communications
 *   colorless WDM-PON
 *   weak cavity lasers and wavelength tuning
@@ -85,5 +87,3 @@ From January 2019 till September 2020 I was enrolled as PostDoc in the Departmen
 #### Interests:
 
 *   photonic technologies in communications, medicine, spectrography etc.
-
-
