@@ -1,5 +1,5 @@
 ---
-layout: biography
+layout: experience
 ---
 
 ### Microscopy
