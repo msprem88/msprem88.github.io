@@ -8,4 +8,7 @@ layout: gallery
 ![](/imgs/sl_4.jpg)
 ![](/imgs/sl_3.jpg)
 ![](/imgs/sl_2.jpg)
+![](/imgs/sl_7.jpg)
+![](/imgs/sl_8.jpg)
+![](/imgs/sl_9.jpg)
 ![](/imgs/sl_6.jpg)
