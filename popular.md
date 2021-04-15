@@ -6,7 +6,7 @@ layout: popular
 
 **Scientific poster Jutarnji list** - Optical communications (under construction, covid-19 delay)
 
-**2nd Zagreb CubeSat Workshop 2020** - technical management of the organization, postponed the due Covide-19
+**2nd Zagreb CubeSat Workshop 2020** - technical management of the organization, postponed due to Covide-19
 
 **FERSAT workshop 2018** - participation in the organization
 
