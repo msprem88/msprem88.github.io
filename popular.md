@@ -12,7 +12,7 @@ layout: popular
 
 **Guest appearance on HRT, Good Morning Croatia, TV show 2017** - presentation and invitation for the Open day of the Department of Wireless Communications
 
-**Open day of the Department of Wireless Communications 2017 till 2019** - presentation of the institute through AOLab
+**Open day of the Department of Wireless Communications 2017 till 2019** - presentation of the faculty through AOLab
 
 **FER Open Day 2016 and 2018** - presentation of the faculty through optical experiments of AOLab and the Department of Wireless Communications
 

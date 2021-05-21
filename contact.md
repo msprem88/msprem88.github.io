@@ -11,4 +11,6 @@ Check out my other professional pages, and feel free to contact me anytime.
 
 ### [Google Scholar](https://scholar.google.hr/citations?user=M1ooVmQAAAAJ&hl=en)
 
+### [Twitter](https://twitter.com/Marko_Sprem)
+
 ### [Facebook](https://www.facebook.com/marko.sprem.z/)
