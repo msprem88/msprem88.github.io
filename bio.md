@@ -15,16 +15,19 @@ From January 2019 till September 2020 I was enrolled as PostDoc in the Departmen
 
 ### Areas of expertise
 
-*   fluorescence microscopy
-**   super-resolution microscopy (STED)
-*   fiber optic communications
-*   colorless WDM-PON
-*   weak cavity lasers and wavelength tuning
-*   fiber optic sensor systems
+*	Microscopy
+	*   fluorescence microscopy
+	*   super-resolution microscopy (STED)
+
+*	Fiber optics
+	*   fiber optic communications
+	*   colorless WDM-PON
+	*   weak cavity lasers and wavelength tuning
+	*   fiber optic sensor systems
 
 ### Interests
 
 *   photonic technologies in communications, medicine, spectrography etc.
 
 
-Father of two little super-heroes.
+***Father of two little super-heroes.***
