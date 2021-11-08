@@ -2,7 +2,7 @@
 layout: gallery
 ---
 
-![](/imgs/srceko.png)
+![](/imgs/srceko.jpg)
 ![](/imgs/office_tolic.JPG)
 ![](/imgs/sl_5.jpg)
 ![](/imgs/sl_1.jpg)
