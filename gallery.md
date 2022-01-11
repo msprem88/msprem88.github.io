@@ -2,6 +2,7 @@
 layout: gallery
 ---
 
+![](/imgs/s_10.JPG)
 ![](/imgs/srceko.jpg)
 ![](/imgs/office_tolic.JPG)
 ![](/imgs/sl_5.jpg)
