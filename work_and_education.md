@@ -19,7 +19,7 @@ _Research_: microscopy and super-resolution methods
 #### Jan 2019 - Sept, 2020 | PostDoc
 UNIZG - FER, Department of Electronic Systems and Information Processing
 
-_Research_: photonic signal processing; opto-acoustics for biomedical purposes
+_Research_: photonic signal processing;
 
 #### Jan 2015 - Dec 2018 | PhD student / Research Assistant
 UNIZG - FER, Applied Optics Laboratory (**AOLab**), Department of Wireless Communications
