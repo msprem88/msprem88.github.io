@@ -24,12 +24,6 @@ layout: projects_publ
   * participation in the research of a sensor system for measuring vibrations using fiber optics
 
 
- 
-### Personal project - opto-acoustics
-* research of opto-acoustic effect for the purpose of obtaining medical images (organs, tissues, vasculature, etc.)
-* mentored one student on the topic of image reconstruction methods in opto-acoustic tomography in 2020
-* project in the initial phase
-
 
 ## Visits
 * Electro-Optics Laboratory under the leadership of prof. Zeev Zalevsky, from the Faculty of Engineering, Bar Ilan University, Tel Aviv, Israel, for a period of two weeks in March 2019. The topic of training was digital FIR / IIR filters in fiber optic technology
