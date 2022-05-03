@@ -4,9 +4,7 @@ layout: work_edu
 
 ## Current Affiliation
 
-PostDoc / Project Advisor in [prof. Iva Tolić Group](http://tolic.irb.hr) at Ruđer Bošković Institute in Zagreb, Croatia, on an ERC Synergy project titled “Molecular origins of aneuploidies in healthy and diseased human tissues.”
-Entering the world of fluorescence microscopy and super-resolution.
-
+PostDoc at FER, ZKIST, AOLab.
 
 
 ## Working Experience
