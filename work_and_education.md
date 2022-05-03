@@ -11,7 +11,11 @@ Entering the world of fluorescence microscopy and super-resolution.
 
 ## Working Experience
 
-#### Sept 2020 - present | PostDoc / Project Advisor
+#### May 2022 - present | PostDoc
+UNIZG - FER, Department of Communication and Space Technologies
+
+
+#### Sept 2020 - April 2022 | PostDoc / Project Advisor
 Ruđer Bošković Institute, Division of Molecular Biology, Laboratory of cell biophysics, **Tolić Group**
 
 _Research_: microscopy and super-resolution methods
