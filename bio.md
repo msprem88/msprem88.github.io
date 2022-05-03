@@ -12,22 +12,8 @@ I am also an originator of the project [CROSPERITY](https://www.fer.unizg.hr/zki
 
 From January 2019 till September 2020 I was enrolled as PostDoc in the Department of Electronic Systems and Information Processing (ZESOI), where I was researching photonic signal processing, optical RF filters and other photonic technologies.
 
-
-### Areas of expertise
-
-*	Microscopy
-	*   fluorescence microscopy
-	*   super-resolution microscopy (STED)
-
-*	Fiber optics
-	*   fiber optic communications
-	*   colorless WDM-PON
-	*   weak cavity lasers and wavelength tuning
-	*   fiber optic sensor systems
-
-### Interests
-
-*   photonic technologies in communications, medicine, spectrography etc.
+From September 2020 till April 2022 I was in position of PostDoc / Project Advisor in prof. Iva Tolić Group at Ruđer Bošković Institute in Zagreb, Croatia, on an ERC Synergy project titled “Molecular origins of aneuploidies in healthy and diseased human tissues.”
+There I entered the world of laser microscopy, particulary fluorescence microscopy and super-resolution.
 
 
 ***Father of two little super-heroes.***
