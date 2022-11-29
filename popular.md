@@ -3,6 +3,7 @@ layout: popular
 ---
 
 
+**FER Open Day 2022** - presentation of the faculty through optical experiments of AOLab and the Department of Communication and Space Technologies
 
 **Scientific poster Jutarnji list** - Optical communications (under construction, covid-19 delay)
 
