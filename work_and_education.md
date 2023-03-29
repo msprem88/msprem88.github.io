@@ -18,7 +18,7 @@ Ruđer Bošković Institute, Division of Molecular Biology, Laboratory of cell b
 
 _Research_: microscopy and super-resolution methods
 
-#### Jan 2019 - Sept, 2020 | PostDoc
+#### Jan 2019 - Sept 2020 | PostDoc
 UNIZG - FER, Department of Electronic Systems and Information Processing
 
 _Research_: photonic signal processing
