@@ -3,6 +3,9 @@ layout: projects_publ
 ---
 
 ## Scientific projects
+* (**HRZZ**) Smart platform for millimeter-wave environmental and industrial sensing (MMSENSE) - leader prof. Marko Bosiljevac, UNIZG-FER
+ * 15.01.2020 - 14.01.2024
+
 
 * (**ERC Synergy**) Molecular origins of aneuploidies in healthy and diseased human tissues - cPI prof. Iva Tolić, Ruđer Bošković Institute; other PI: prof. Geert Kops, Hubrecht Institute - KNAW, Utrecht, Netherlands; prof. Angelika Amon, MIT, Cambridge, MA, USA; prof. Nenad Pavin, UNIZG-PMF
   * 01.04.2020 - 31.03.2025
