@@ -8,8 +8,6 @@ I was born in Zagreb in 1988. I received my Masters degree in 2014 from Universi
 
 I graduated in October 2018 with PhD thesis titled "Optical communication based on wavelength reuse and modulation averaging" with Summa Cum Laude, under the supervision of prof. [Dubravko Babić](https://aolab.fer.hr/aolab/people/dubravko_babic).
 
-I am also an originator of the project [CROSPERITY](https://www.fer.unizg.hr/zkist/FERSAT/pocetak), alongside [Dario Bojanjac](https://www.fer.unizg.hr/zkist/djelatnici/dario_bojanjac) and [Josip Lončar](https://www.fer.unizg.hr/zkist/djelatnici/josip_loncar).
-
 From January 2019 till September 2020 I was enrolled as PostDoc in the Department of Electronic Systems and Information Processing (ZESOI), where I was researching photonic signal processing, optical RF filters and other photonic technologies.
 
 From September 2020 till April 2022 I was in position of PostDoc / Project Advisor in prof. Iva Tolić Group at Ruđer Bošković Institute in Zagreb, Croatia, on an ERC Synergy project titled “Molecular origins of aneuploidies in healthy and diseased human tissues.”
