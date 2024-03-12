@@ -12,9 +12,7 @@ PostDoc at FER, ZKIST, AOLab.
 #### May 2022 - present | PostDoc
 UNIZG - FER, Department of Communication and Space Technologies
 
-_Research_: SWIR imaging
-
-			photoacoustic biomedical imaging
+_Research_: SWIR imaging // photoacoustic biomedical imaging
 
 #### Sept 2020 - April 2022 | PostDoc / Project Advisor
 Ruđer Bošković Institute, Division of Molecular Biology, Laboratory of cell biophysics, **Tolić Group**
