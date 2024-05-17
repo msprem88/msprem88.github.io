@@ -4,12 +4,12 @@ layout: work_edu
 
 ## Current Affiliation
 
-PostDoc at FER, ZKIST, AOLab.
+Research Scientist at <a href="https://protostar.ai" target="_blank">Protostar Labs</a>.
 
 
 ## Working Experience
 
-#### May 2022 - present | PostDoc
+#### May 2022 - April 2024 | PostDoc
 UNIZG - FER, Department of Communication and Space Technologies
 
 _Research_: SWIR imaging // photoacoustic biomedical imaging
